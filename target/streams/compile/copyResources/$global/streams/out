@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\SourceCode\ScalaKafkaDemoApp\src\main\resources\application.properties,D:\SourceCode\ScalaKafkaDemoApp\target\scala-2.13\classes\application.properties)
+[debug] 	(D:\SourceCode\ScalaKafkaDemoApp\src\main\resources\customer.JSON,D:\SourceCode\ScalaKafkaDemoApp\target\scala-2.13\classes\customer.JSON)
+[debug] 	(D:\SourceCode\ScalaKafkaDemoApp\src\main\resources\logback.xml,D:\SourceCode\ScalaKafkaDemoApp\target\scala-2.13\classes\logback.xml)
